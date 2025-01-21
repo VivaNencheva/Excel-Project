@@ -1,1 +1,3 @@
 # Excel-Project
+Bike Buyers Analysis Project
+This project involved analyzing a dataset of potential bike buyers to uncover purchasing patterns and key demographic insights. Using advanced Excel techniques such as pivot tables, slicers, and dashboards, I provided a comprehensive analysis of factors influencing bike purchases. The project explored variables like income, education, commute distance, and regional trends to support data-driven marketing strategies and targeted customer outreach. This analysis demonstrates my ability to work with complex datasets, identify actionable insights, and present them effectively through visual dashboards.
